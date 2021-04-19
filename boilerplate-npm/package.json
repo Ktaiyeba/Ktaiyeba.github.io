@@ -1,0 +1,24 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Khadija taiyeba",
+	"description": "A project that is worth at the end",
+	"keywords": [
+		"freecodecamp",
+		"related",
+		"words"
+	],
+	"license": "CS355",
+	"version": "1.2.0",
+	"package": "MAJOR.MINOR.PATCH",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
