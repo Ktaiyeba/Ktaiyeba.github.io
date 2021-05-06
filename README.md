@@ -4,3 +4,5 @@
 ### Team members : Khadija and Yinan 
 ### Khadija - student-homepage, sign in, sign up
 ### Yinan - Instructor homepage , student-roster, add-course 
+### Front end technologies: html/css/javascript
+### Backend : Node js, express js, mongodb
