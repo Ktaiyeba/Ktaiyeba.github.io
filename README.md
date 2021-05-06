@@ -11,7 +11,7 @@
 ### A student may not register if already registered or if wrong semester is chosen
 ### An instructor can create a course
 ### An instructor will immediately have an update on the the roster when a student registers
-### <a href= "https://Ktaiyeba/Ktaiyeba.github.io/frontend/index.html">Log in</a>
+### <a href= "https://Ktaiyeba.github.io/frontend/index.html">Log in</a>
 ### Front end technologies: html/css/javascript
 ### Backend : Node js, express js
 ### Database management system : Mongodb
